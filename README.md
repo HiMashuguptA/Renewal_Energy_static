@@ -1,0 +1,1 @@
+# Renewal_Energy_static
