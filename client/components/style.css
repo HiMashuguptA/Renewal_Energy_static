@@ -2,7 +2,8 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    overflow-x: hi;
+    overflow-x: hidden;
+    /* width: 100vw; */
 }
 ::-webkit-scrollbar{
     width: 9px;
